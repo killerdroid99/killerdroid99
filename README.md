@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killerdroid99
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...currently nothhing
+- 💞️ I’m looking to collaborate on ...currently nothing but after learning some front-end I will
 - 📫 How to reach me ...ajempire09@gmail.com
 
 <!---
