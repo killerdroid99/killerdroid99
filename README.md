@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @killerdroid99
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...HTML CSS and JavaScript
+- 🌱 I’m currently learning ...HTML CSS and JavaScript <-- Almost learned all major concepts
+- ⚛️ Mainly learning React framework and tried my hand on Svelte framework
 - 💞️ I’m looking to collaborate on ...currently nothing but after learning some front-end I will
 - 📫 How to reach me ...ajempire09@gmail.com
 
