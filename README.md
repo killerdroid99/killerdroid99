@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killerdroid99
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...HTML CSS and JavaScript <-- Almost learned all major concepts
-- ⚛️ Mainly learning React framework and tried my hand on Svelte framework and for styling I mostly use TailwindCSS
+- 🌱 I’m currently learning ...NextJS <-- Currently at Next Auth
+- ⚛️ Mainly learning React framework and tried my hand on Svelte/SvelteKit framework and for styling I mostly use TailwindCSS
 - 💞️ I’m looking to collaborate on ...any projects related to vanilla JavaScript, React or Svelte
 - 📫 How to reach me ...ajempire09@gmail.com
 
