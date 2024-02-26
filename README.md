@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @killerdroid99
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...NextJS <-- Currently at Next Auth
-- ⚛️ Mainly learning React framework and tried my hand on Svelte/SvelteKit framework and for styling I mostly use TailwindCSS
-- 💞️ I’m looking to collaborate on ...any projects related to vanilla JavaScript, React or Svelte
-- 📫 How to reach me ...ajempire09@gmail.com
+- 👋 Hi, I’m @killerdroid99(Aniket Jena)
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ...Go
+- ⚛️ Mainly learning React, its meta frameworks and other js frameworks like Svelte, Vue etc
+- 💅 For styling I mostly use TailwindCSS but sometimes Vanilla CSS does the job
+- 💞️ I’m looking to collaborate on ...any projects related to Typescript, React, Node or Go
+- 📫 How to reach me ...ajempire09@gmail.com or hit me up on discord `{username:killerdroid99}`
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=killerdroid99&show_icons=true&theme=cobalt)
 
