@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @killerdroid99(Aniket Jena)
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Go
+- 🌱 I’m currently learning ...C++
 - ⚛️ Mainly learning React, its meta frameworks and other js frameworks like Svelte, Vue etc
 - 💅 For styling I mostly use TailwindCSS but sometimes Vanilla CSS does the job
 - 💞️ I’m looking to collaborate on ...any projects related to Typescript, React, Node or Go
