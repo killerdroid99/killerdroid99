@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @killerdroid99(Aniket Jena)
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...C++
-- ⚛️ Mainly learning React, its meta frameworks and other js frameworks like Svelte, Vue etc
+- 🌱 I’m currently learning ...PHP particularly Laravel framework
+- ⚛️ Mainly learning React, its meta frameworks and other js frameworks like Svelte, Vue etc also recently stumbled upon InertiaJS
 - 💅 For styling I mostly use TailwindCSS but sometimes Vanilla CSS does the job
-- 💞️ I’m looking to collaborate on ...any projects related to Typescript, React, Node or Go
+- 💞️ I’m looking to collaborate on ...any projects related to Typescript, React, Node, Go, C++ and PHP
 - 📫 How to reach me ...ajempire09@gmail.com or hit me up on discord `{username:killerdroid99}`
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=killerdroid99&show_icons=true&theme=cobalt)
